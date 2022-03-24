@@ -9,7 +9,7 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
 let DATA = {
   name: "Matt",
   fullname: "Matt Williams",
-  employer: "InfraHQ"
+  employer: "InfraHQ",
   date: new Date().toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",

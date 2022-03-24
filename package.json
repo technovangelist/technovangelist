@@ -1,0 +1,22 @@
+{
+  "name": "technovangelist",
+  "version": "1.0.0",
+  "description": "I'm an Evangelist and Trainer at (InfraHQ)[https://infrahq.com] and have been for about 6 years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technovangelist/technovangelist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technovangelist/technovangelist/issues"
+  },
+  "homepage": "https://github.com/technovangelist/technovangelist#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

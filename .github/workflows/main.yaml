@@ -6,7 +6,7 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  build:
+  technovangelist-readme-build:
     runs-on: ubuntu-latest
 
     steps:

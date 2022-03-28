@@ -5,6 +5,6 @@ My name is **Matt** and I have been an **Evangelist** at [InfraHQ](https://infra
 If you see any videos, talks, blog posts, streams and more about InfraHQ, there is a good chance I had a hand in it. 
 
 ------------
-This page gets built for me automatically and was last built on Sunday, March 27, 6:36 PM PDT.
+This page gets built for me automatically and was last built on Sunday, March 27, 7:58 PM PDT.
 
 It was inspired by [thmsgbrt](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)

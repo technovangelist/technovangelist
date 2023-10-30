@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Welcome to GitHub.</h1>
 
-My name is **Matt** and I have been an **Evangelist** at [InfraHQ](https://infrahq.com) since January 2022. Before that, I was the first Evangelist at Datadog. 
+My name is **Matt** and I am one of the maintainers of **Ollama.ai** at [Ollama](https://ollama.ai) since January 2022. Before that, I was the first Evangelist at Datadog. 
 
 If you see any videos, talks, blog posts, streams and more about InfraHQ, there is a good chance I had a hand in it. 
 

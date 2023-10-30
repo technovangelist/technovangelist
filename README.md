@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Welcome to GitHub.</h1>
 
-My name is **Matt** and I am one of the maintainers of **Ollama.ai** at [Ollama](https://ollama.ai) since January 2022. Before that, I was the first Evangelist at Datadog. 
+My name is **Matt** and I have been an **Evangelist** at [InfraHQ](https://infrahq.com) since January 2022. Before that, I was the first Evangelist at Datadog. 
 
 If you see any videos, talks, blog posts, streams and more about InfraHQ, there is a good chance I had a hand in it. 
 
@@ -10,6 +10,6 @@ If you see any videos, talks, blog posts, streams and more about InfraHQ, there 
 <!--END_SECTION:waka-->
 
 ------------
-This page gets built for me automatically and was last built on Monday, October 30, 1:14 PM PDT.
+This page gets built for me automatically and was last built on Monday, October 30, 1:18 PM PDT.
 
 It was inspired by [thmsgbrt](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
